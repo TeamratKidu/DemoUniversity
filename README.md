@@ -1,1 +1,1 @@
-# cu60
+Demo University
